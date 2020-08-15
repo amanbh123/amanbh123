@@ -21,9 +21,17 @@ in Machine Learning Domain. [Project](https://github.com/SmartPracticeschool/llS
 
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/917579138099)
-- ⚡ Fun fact: I love meeting new people and trevling! 
+- ⚡ Fun fact: I love meeting new people and travelling! 
 - 😄 Pronouns: he/his/him
 ---
 
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanbh123&show_icons=true)
+<!--
+**amanbh123/amanbh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+-->
+
 🤔
+
+
 
