@@ -10,8 +10,8 @@ I'm Aman Bahuguna, Currently Pursuing Undergraduate in Computer Science 👨‍�
 ---
 
 ## 😎 About
-- 👨🏽‍💻 I’m currently working on a Machine Learning & Deep Learning projects.
 - 👯 I’m looking for a Research internship in Machine Learning, Deep Learning, and SDE domains
+- 👨🏽‍💻 I’ve done various Project on a Machine Learning & Deep Learning. 
 - 😄 Just completed my Summer Internship with [TheSmartBridg](https://smartinternz.com/)
 in Machine Learning Domain. [Project](https://github.com/SmartPracticeschool/llSPS-INT-3437-Predicting-the-Energy-Output-of-Wind-Turbine-Based-on-Weather-Conditions-Watson-Auto-)
 - 👍 Completed my Summer internship with [Internity Foundation](http://www.internity.in/index.html) in Data structure & algorithm field [Projects](https://github.com/InternityFoundation/DSAlgo_Aman-Bahuguna)
