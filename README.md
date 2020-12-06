@@ -21,8 +21,6 @@ in Machine Learning Domain. [Project](https://github.com/SmartPracticeschool/llS
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 💬 Ask me about anything and everything! 
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/917579138099)
 - ⚡ Fun fact: I love meeting new people and travelling! 
 - 😄 Pronouns: he/his/him
 ---
