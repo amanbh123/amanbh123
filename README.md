@@ -5,7 +5,7 @@
 ---
 
 ## Hi there 👋,           
-I'm Aman Bahuguna, Currently Pursuing Undergraduate in Computer Science 👨‍💻, Strong in problem-solving, Project management and Communication Skill. Proficient in C++, Python, Data Structures and Algorithms. Passionate about learning new technologies Like Machine Learning and Deep Learning and making projects.  
+I'm Aman Bahuguna, Currently Pursuing Undergraduate Degree in Computer Science 👨‍💻, Strong in problem-solving, Project management and Communication Skill. Proficient in C++, Python, Data Structures and Algorithms. Passionate about learning new technologies Like Machine Learning and Deep Learning and making projects.  
 
 ---
 
