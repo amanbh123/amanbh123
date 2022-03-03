@@ -1,6 +1,6 @@
 ## 👱🏻‍♂️Aman Bahuguna 💻 
 [![Linkedin Badge](https://img.shields.io/badge/-amanbhuguna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-bahuguna/)](https://www.linkedin.com/in/aman-bahuguna/)
-[![Gmail Badge](https://img.shields.io/badge/-ak9601090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ak9601090@gmail.com)](mailto:ak9601096@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ak9601090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ak9601090@gmail.com)](mailto:amanbh4637@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/amanbh123?label=Follow&style=social)](https://github.com/amanbh123/?tab=follow)
 ---
 
